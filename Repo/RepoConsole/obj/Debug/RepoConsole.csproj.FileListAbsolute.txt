@@ -1,0 +1,10 @@
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\bin\Debug\RepoConsole.exe.config
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\bin\Debug\RepoConsole.exe
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\bin\Debug\RepoConsole.pdb
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\bin\Debug\Repo.dll
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\bin\Debug\RepoFile.dll
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\bin\Debug\RepoFile.pdb
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\bin\Debug\Repo.pdb
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\obj\Debug\RepoConsole.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\obj\Debug\RepoConsole.exe
+C:\Devel\VisalStudio\Projects\Circle\Repo\RepoConsole\obj\Debug\RepoConsole.pdb

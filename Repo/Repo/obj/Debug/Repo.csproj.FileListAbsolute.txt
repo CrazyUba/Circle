@@ -1,0 +1,5 @@
+C:\Devel\VisalStudio\Projects\Circle\Repo\Repo\bin\Debug\Repo.dll
+C:\Devel\VisalStudio\Projects\Circle\Repo\Repo\bin\Debug\Repo.pdb
+C:\Devel\VisalStudio\Projects\Circle\Repo\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache
+C:\Devel\VisalStudio\Projects\Circle\Repo\Repo\obj\Debug\Repo.dll
+C:\Devel\VisalStudio\Projects\Circle\Repo\Repo\obj\Debug\Repo.pdb
