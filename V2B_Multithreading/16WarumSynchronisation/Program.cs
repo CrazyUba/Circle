@@ -28,6 +28,7 @@ namespace _16WarumSynchronisation
             Task.WaitAll(tasks);
             
             Console.WriteLine(counter.Value); // Erwartetes Ergebnis: 20000000. Tatsächlich: < 20000000! Thread teilen sich eine gemeinsame Ressource => Vorsicht!!!
+            // Lösung z.B. mit der Klasse 'Interlocked'
         }
     }
 }
